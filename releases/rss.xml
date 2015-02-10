@@ -1,0 +1,312 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>릴리즈 노트</title>
+<link>http://www.daolcms.org/release</link>
+<description/>
+<language>ko</language>
+<pubDate>Fri, 23 Jan 2015 18:47:23 +0900</pubDate>
+<lastBuildDate>Fri, 23 Jan 2015 18:47:23 +0900</lastBuildDate>
+<generator>DAOL Projects</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.9 베타3 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3292</link>
+<guid isPermaLink="true">http://www.daolcms.org/3292</guid>
+<comments>http://www.daolcms.org/3292#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.9 베타3 패치 목록 ]]>
+</description>
+<pubDate>Mon, 09 Feb 2015 02:29:00 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.9 베타2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3283</link>
+<guid isPermaLink="true">http://www.daolcms.org/3283</guid>
+<comments>http://www.daolcms.org/3283#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.9 베타2 패치 목록 ]]>
+</description>
+<pubDate>Sun, 08 Feb 2015 18:27:38 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.9 베타 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3270</link>
+<guid isPermaLink="true">http://www.daolcms.org/3270</guid>
+<comments>http://www.daolcms.org/3270#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.9 베타 패치 목록 ]]>
+</description>
+<pubDate>Fri, 30 Jan 2015 19:40:03 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.8 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3015</link>
+<guid isPermaLink="true">http://www.daolcms.org/3015</guid>
+<comments>http://www.daolcms.org/3015#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.8 패치 목록 ]]>
+</description>
+<pubDate>Sun, 11 Jan 2015 15:12:42 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.7 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2960</link>
+<guid isPermaLink="true">http://www.daolcms.org/2960</guid>
+<comments>http://www.daolcms.org/2960#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.7 패치 목록 ]]>
+</description>
+<pubDate>Thu, 30 Oct 2014 00:29:45 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.7 베타2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2955</link>
+<guid isPermaLink="true">http://www.daolcms.org/2955</guid>
+<comments>http://www.daolcms.org/2955#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.7 베타2 패치 목록 ]]>
+</description>
+<pubDate>Mon, 13 Oct 2014 01:15:27 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.7 베타 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2874</link>
+<guid isPermaLink="true">http://www.daolcms.org/2874</guid>
+<comments>http://www.daolcms.org/2874#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.7 베타 패치 목록 ]]>
+</description>
+<pubDate>Mon, 04 Aug 2014 12:40:45 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.6 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2868</link>
+<guid isPermaLink="true">http://www.daolcms.org/2868</guid>
+<comments>http://www.daolcms.org/2868#comment</comments>
+<description>
+<![CDATA[
+다올 CMS 1.0.0.6 패치 목록
+]]>
+</description>
+<pubDate>Fri, 01 Aug 2014 17:12:30 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.5 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2855</link>
+<guid isPermaLink="true">http://www.daolcms.org/2855</guid>
+<comments>http://www.daolcms.org/2855#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.5 패치 목록 ]]>
+</description>
+<pubDate>Wed, 23 Jul 2014 02:07:42 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.4 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2844</link>
+<guid isPermaLink="true">http://www.daolcms.org/2844</guid>
+<comments>http://www.daolcms.org/2844#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.4 패치 목록 ]]>
+</description>
+<pubDate>Tue, 22 Jul 2014 00:25:03 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.4 베타4 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2834</link>
+<guid isPermaLink="true">http://www.daolcms.org/2834</guid>
+<comments>http://www.daolcms.org/2834#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.4 베타4 패치 목록 ]]>
+</description>
+<pubDate>Wed, 16 Jul 2014 00:57:33 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.4 베타3 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2812</link>
+<guid isPermaLink="true">http://www.daolcms.org/2812</guid>
+<comments>http://www.daolcms.org/2812#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.4 베타3 패치 목록 ]]>
+</description>
+<pubDate>Thu, 26 Jun 2014 22:06:18 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.4 베타2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2803</link>
+<guid isPermaLink="true">http://www.daolcms.org/2803</guid>
+<comments>http://www.daolcms.org/2803#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.4 베타2 패치 목록 ]]>
+</description>
+<pubDate>Thu, 19 Jun 2014 16:49:36 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.4 베타 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2772</link>
+<guid isPermaLink="true">http://www.daolcms.org/2772</guid>
+<comments>http://www.daolcms.org/2772#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.4 베타 패치 목록 ]]>
+</description>
+<pubDate>Tue, 20 May 2014 01:27:31 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.3 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/2736</link>
+<guid isPermaLink="true">http://www.daolcms.org/2736</guid>
+<comments>http://www.daolcms.org/2736#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.3 정식 패치 목록 ]]>
+</description>
+<pubDate>Fri, 02 May 2014 01:16:18 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/721</link>
+<guid isPermaLink="true">http://www.daolcms.org/721</guid>
+<comments>http://www.daolcms.org/721#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.2 정식 패치 목록 ]]>
+</description>
+<pubDate>Wed, 23 Apr 2014 02:34:48 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.2 베타3 배포 (긴급) ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/481</link>
+<guid isPermaLink="true">http://www.daolcms.org/481</guid>
+<comments>http://www.daolcms.org/481#comment</comments>
+<description>
+<![CDATA[ 다올 1.0.0.2 베타2에서 캡차 애드온 사용시 백지화면 됩니다. 긴급 패치 입니다!! ]]>
+</description>
+<pubDate>Sun, 30 Mar 2014 20:07:24 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.2 베타2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/477</link>
+<guid isPermaLink="true">http://www.daolcms.org/477</guid>
+<comments>http://www.daolcms.org/477#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.2 베타2 패치 목록 ]]>
+</description>
+<pubDate>Sun, 30 Mar 2014 12:14:33 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.2 베타 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/444</link>
+<guid isPermaLink="true">http://www.daolcms.org/444</guid>
+<comments>http://www.daolcms.org/444#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.2 베타 패치 목록 ]]>
+</description>
+<pubDate>Thu, 20 Feb 2014 20:19:56 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.1 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/440</link>
+<guid isPermaLink="true">http://www.daolcms.org/440</guid>
+<comments>http://www.daolcms.org/440#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.1 정식 패치 목록 ]]>
+</description>
+<pubDate>Thu, 16 Jan 2014 16:05:59 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.1 베타3 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/438</link>
+<guid isPermaLink="true">http://www.daolcms.org/438</guid>
+<comments>http://www.daolcms.org/438#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.1 베타3 패치 목록 ]]>
+</description>
+<pubDate>Mon, 13 Jan 2014 16:50:34 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.1 베타2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/436</link>
+<guid isPermaLink="true">http://www.daolcms.org/436</guid>
+<comments>http://www.daolcms.org/436#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.1 베타2 패치 목록 ]]>
+</description>
+<pubDate>Thu, 09 Jan 2014 19:50:11 +0900</pubDate>
+</item>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.0.1 베타 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/433</link>
+<guid isPermaLink="true">http://www.daolcms.org/433</guid>
+<comments>http://www.daolcms.org/433#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.0.1 베타 패치 목록 ]]>
+</description>
+<pubDate>Tue, 07 Jan 2014 16:13:32 +0900</pubDate>
+</item>
+</channel>
+</rss>
