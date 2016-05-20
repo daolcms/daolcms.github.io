@@ -9,6 +9,19 @@
 <generator>DAOL CMS</generator>
 <item>
 <title>
+<![CDATA[ 다올 CMS 1.0.2.0 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3797</link>
+<guid isPermaLink="true">http://www.daolcms.org/3797</guid>
+<comments>http://www.daolcms.org/3797#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.2.0 패치 목록 ]]>
+</description>
+<pubDate>Fri, 20 May 2016 09:47:29 +0900</pubDate>
+</item>
+<item>
+<title>
 <![CDATA[ 다올 CMS 1.0.2.0 부터 PHP 5.2 지원을 중단합니다. ]]>
 </title>
 <dc:creator>도라미</dc:creator>
