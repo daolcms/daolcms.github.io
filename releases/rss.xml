@@ -1,12 +1,25 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 <channel>
 <title>릴리즈 노트</title>
-<link>http://www.daolcms.org/release</link>
+<link>http://www.daolcms.org/releases</link>
 <description/>
 <language>ko</language>
-<pubDate>Thu, 01 Sep 2016 11:20:24 +0900</pubDate>
-<lastBuildDate>Thu, 01 Sep 2016 11:20:24 +0900</lastBuildDate>
+<pubDate>Tue, 11 Oct 2016 17:54:15 +0900</pubDate>
+<lastBuildDate>Tue, 11 Oct 2016 17:54:15 +0900</lastBuildDate>
 <generator>DAOL CMS</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.2.2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3825</link>
+<guid isPermaLink="true">http://www.daolcms.org/3825</guid>
+<comments>http://www.daolcms.org/3825#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.2.2 패치 목록 ]]>
+</description>
+<pubDate>Tue, 11 Oct 2016 12:03:32 +0900</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ 다올 CMS 1.0.2.1 배포 ]]>
@@ -58,19 +71,6 @@
 <![CDATA[ 다올 CMS 1.0.1.9 PHP 5.2 대상 핫패치 배포 ]]>
 </description>
 <pubDate>Wed, 11 May 2016 01:36:00 +0900</pubDate>
-</item>
-<item>
-<title>
-<![CDATA[ 다올 CMS 1.0.1.9 배포 ]]>
-</title>
-<dc:creator>도라미</dc:creator>
-<link>http://www.daolcms.org/3764</link>
-<guid isPermaLink="true">http://www.daolcms.org/3764</guid>
-<comments>http://www.daolcms.org/3764#comment</comments>
-<description>
-<![CDATA[ 다올 CMS 1.0.1.9 패치 목록 ]]>
-</description>
-<pubDate>Sun, 17 Apr 2016 12:43:01 +0900</pubDate>
 </item>
 </channel>
 </rss>
