@@ -4,9 +4,30 @@
 <link>http://www.daolcms.org/releases</link>
 <description/>
 <language>ko</language>
-<pubDate>Fri, 02 Dec 2016 19:41:33 +0900</pubDate>
-<lastBuildDate>Fri, 02 Dec 2016 19:41:33 +0900</lastBuildDate>
+<pubDate>Sun, 15 Jan 2017 17:57:54 +0900</pubDate>
+<lastBuildDate>Sun, 15 Jan 2017 17:57:54 +0900</lastBuildDate>
 <generator>DAOL CMS</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.2.5 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3852</link>
+<guid isPermaLink="true">http://www.daolcms.org/3852</guid>
+<comments>http://www.daolcms.org/3852#comment</comments>
+<description>
+<![CDATA[
+다올 CMS 1.0.2.5 패치 목록
+ 
+ &nbsp;
+ 
+ 1. 설문조사 스킨 깨짐현상 수정
+ 
+ 2. CKEditor 4.6 업데이트 및...
+]]>
+</description>
+<pubDate>Sun, 15 Jan 2017 17:57:39 +0900</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ 다올 CMS 1.0.2.4 배포 ]]>
@@ -58,19 +79,6 @@
 <![CDATA[ 다올 CMS 1.0.2.1 패치 목록 ]]>
 </description>
 <pubDate>Thu, 01 Sep 2016 11:16:22 +0900</pubDate>
-</item>
-<item>
-<title>
-<![CDATA[ 다올 CMS 1.0.2.0 배포 ]]>
-</title>
-<dc:creator>도라미</dc:creator>
-<link>http://www.daolcms.org/3797</link>
-<guid isPermaLink="true">http://www.daolcms.org/3797</guid>
-<comments>http://www.daolcms.org/3797#comment</comments>
-<description>
-<![CDATA[ 다올 CMS 1.0.2.0 패치 목록 ]]>
-</description>
-<pubDate>Fri, 20 May 2016 09:47:29 +0900</pubDate>
 </item>
 </channel>
 </rss>
