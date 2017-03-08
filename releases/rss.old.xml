@@ -4,9 +4,22 @@
 <link>http://www.daolcms.org/releases</link>
 <description/>
 <language>ko</language>
-<pubDate>Mon, 27 Feb 2017 21:29:07 +0900</pubDate>
-<lastBuildDate>Mon, 27 Feb 2017 21:29:07 +0900</lastBuildDate>
+<pubDate>Wed, 08 Mar 2017 22:19:27 +0900</pubDate>
+<lastBuildDate>Wed, 08 Mar 2017 22:19:27 +0900</lastBuildDate>
 <generator>DAOL CMS</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.2.2 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3825</link>
+<guid isPermaLink="true">http://www.daolcms.org/3825</guid>
+<comments>http://www.daolcms.org/3825#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.2.2 패치 목록 ]]>
+</description>
+<pubDate>Tue, 11 Oct 2016 12:03:32 +0900</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ 다올 CMS 1.0.2.1 배포 ]]>
