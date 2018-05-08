@@ -1,12 +1,25 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 <channel>
 <title>릴리즈 노트</title>
-<link>http://www.daolcms.org/releases</link>
+<link>https://www.daolcms.org/releases</link>
 <description/>
 <language>ko</language>
-<pubDate>Fri, 09 Mar 2018 01:31:30 +0900</pubDate>
-<lastBuildDate>Fri, 09 Mar 2018 01:31:30 +0900</lastBuildDate>
+<pubDate>Wed, 09 May 2018 00:03:34 +0900</pubDate>
+<lastBuildDate>Wed, 09 May 2018 00:03:34 +0900</lastBuildDate>
 <generator>DAOL CMS</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.3.6 배포 ]]>
+</title>
+<dc:creator>도라미</dc:creator>
+<link>http://www.daolcms.org/3998</link>
+<guid isPermaLink="true">http://www.daolcms.org/3998</guid>
+<comments>http://www.daolcms.org/3998#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.3.6 패치 목록 ]]>
+</description>
+<pubDate>Tue, 24 Oct 2017 13:05:11 +0900</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ 다올 CMS 1.0.3.5 배포 ]]>
