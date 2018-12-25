@@ -4,9 +4,22 @@
 <link>https://www.daolcms.org/releases</link>
 <description/>
 <language>ko</language>
-<pubDate>Tue, 18 Dec 2018 20:40:03 +0900</pubDate>
-<lastBuildDate>Tue, 18 Dec 2018 20:40:03 +0900</lastBuildDate>
+<pubDate>Tue, 25 Dec 2018 21:11:00 +0900</pubDate>
+<lastBuildDate>Tue, 25 Dec 2018 21:11:00 +0900</lastBuildDate>
 <generator>DAOL CMS</generator>
+<item>
+<title>
+<![CDATA[ 다올 CMS 1.0.5.6 배포 ]]>
+</title>
+<dc:creator>DAOL CMS</dc:creator>
+<link>https://www.daolcms.org/releases/4141</link>
+<guid isPermaLink="true">https://www.daolcms.org/releases/4141</guid>
+<comments>https://www.daolcms.org/releases/4141#comment</comments>
+<description>
+<![CDATA[ 다올 CMS 1.0.5.6 패치 목록 ]]>
+</description>
+<pubDate>Fri, 17 Aug 2018 01:36:05 +0900</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ 다올 CMS 1.0.5.5 배포 ]]>
